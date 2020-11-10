@@ -1,0 +1,2 @@
+# tianchi_spinalAI_dection_competetion
+readme.md
