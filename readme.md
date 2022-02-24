@@ -1,5 +1,5 @@
 this code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.link:https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us
-
+dataset link: https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281909.0.0.2b1935acBUEew8&dataId=79463#1
 the result is 27/3107;
 
 
