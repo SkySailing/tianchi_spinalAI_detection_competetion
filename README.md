@@ -1,8 +1,12 @@
 # tianchi_spinalAI_dection_competetion
 
-this code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
+this repo code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
+
 link:https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us 
+
 dataset link: https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281909.0.0.2b1935acBUEew8&dataId=79463#1 
+
+
 the result is 27/3107 in final round at GPU track;
 ![image](https://user-images.githubusercontent.com/10162407/162633895-a784ac7d-f9ae-418c-83ca-6271ce825db5.png)
 
@@ -14,7 +18,8 @@ how to use this code:
 
 1. datafile like this. you can download from tianchi platform.
 
-   ![image](https://user-images.githubusercontent.com/10162407/162634295-10010e1c-8e57-4af7-8acc-b0066462dc19.png)
+   ![image](https://user-images.githubusercontent.com/10162407/162634423-6f4e097f-0ac4-4fcf-ae89-c52dd68e62f9.png)
+
 
 2. prepare the requirement.txt
 
