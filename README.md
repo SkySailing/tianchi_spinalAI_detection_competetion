@@ -2,6 +2,10 @@
 
 this repo code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
 
+![image](https://user-images.githubusercontent.com/10162407/162634827-e89a12d2-d53f-46ce-a433-13b533f5cc22.png)
+![image](https://user-images.githubusercontent.com/10162407/162634797-17482d32-dd1f-4309-970a-cec27338b4e1.png)
+
+
 
 tianchi_spinalAI_dection_competetion link:https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us 
 
