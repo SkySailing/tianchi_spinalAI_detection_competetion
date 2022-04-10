@@ -2,9 +2,9 @@
 
 this repo code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
 
-link:https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us 
 
-dataset link: https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281909.0.0.2b1935acBUEew8&dataId=79463#1 
+tianchi_spinalAI_dection_competetion link:https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us 
+
 
 
 the result is 27/3107 in final round at GPU track;
@@ -14,9 +14,11 @@ the result is 27/3107 in final round at GPU track;
 this code is base on the Unet and ResNet. For more design details,please refer to the following blog.
 blog:https://blog.csdn.net/github_38148039/article/details/109562997
 
-how to use this code:
+
+### how to use this code:
 
 1. datafile like this. you can download from tianchi platform.
+   dataset link: https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281909.0.0.2b1935acBUEew8&dataId=79463#1 
 
    ![image](https://user-images.githubusercontent.com/10162407/162634423-6f4e097f-0ac4-4fcf-ae89-c52dd68e62f9.png)
 
