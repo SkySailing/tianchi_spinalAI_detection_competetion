@@ -1,4 +1,4 @@
-# tianchi_spinalAI_dection_competetion
+# tianchi spinalAI detection competetion
 
 this repo code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
 
@@ -16,6 +16,7 @@ the result is 27/3107 in final round at GPU track;
 
 
 this code is base on the Unet and ResNet. For more design details,please refer to the following blog.
+
 blog:https://blog.csdn.net/github_38148039/article/details/109562997
 
 
