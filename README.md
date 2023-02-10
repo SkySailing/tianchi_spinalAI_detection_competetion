@@ -1,13 +1,13 @@
 # Spark:"Digital body" AI Challenge--Spinal Disease Intelligent Diagnosis
 
-this repo code is submit for the tianchi competetionSpark:"Digital body" AI Challenge.
+this repo code is submit for the tianchi competetion Spark:"Digital body" AI Challenge.
 
 ![image](https://user-images.githubusercontent.com/10162407/162634827-e89a12d2-d53f-46ce-a433-13b533f5cc22.png)
 ![image](https://user-images.githubusercontent.com/10162407/162634797-17482d32-dd1f-4309-970a-cec27338b4e1.png)
 
 
 
-Here is [tianchi_spinalAI_dection_competetion link](https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us) 
+Here is [tianchi_spinalAI_detection_competetion link](https://tianchi.aliyun.com/competition/entrance/531796/introduction?lang=en-us) 
 
 
 
@@ -15,7 +15,7 @@ the result is 27/3107 in final round at GPU track;
 ![image](https://user-images.githubusercontent.com/10162407/162633895-a784ac7d-f9ae-418c-83ca-6271ce825db5.png)
 
 
-this code is base on the Unet and ResNet. For more design details,please refer to the following blog.
+this code is base on the Unet and ResNet. For more design details, please refer to the following blog.
 [my blog](https://blog.csdn.net/github_38148039/article/details/109562997)
 
 
